@@ -11,3 +11,5 @@ The work includes projects such as:
 - Three-phase fault analysis
 - Long transmission line modeling
 - Graphs, plots, and MATLAB scripting practice
+
+For a quick overview of my MATLAB and Simulink work, please check [SIMULINK_MATLAB_PROOF.pdf](./SIMULINK_MATLAB_PROOF.pdf).
